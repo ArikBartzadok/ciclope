@@ -1,7 +1,9 @@
 <div align="center" style="margin-bottom:30px">
   
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/ArikBartzadok/ciclope)
+  
 # Ciclope
-Olho de um ciclope com a presença de psudo-elements, como o :hover.
+Eye of a cyclops with the presence of psudo-elements, such as ```css :hover.```
 
 ## Author
 
